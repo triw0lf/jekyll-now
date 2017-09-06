@@ -158,7 +158,7 @@ img {
 .masthead {
   padding: 20px 0;
   border-bottom: 1px solid $lightGray;
-  background-color: transparentize($lightBlue, .5);
+  background: rgba(135, 206, 250, 0.7);
 
   @include mobile {
     text-align: center;
