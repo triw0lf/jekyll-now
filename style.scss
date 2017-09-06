@@ -20,7 +20,7 @@ html {
 body {
 	background: $white;
   font: 18px/1.4 $helvetica;
-  color: $lightBlue;
+  color: $black;
 }
 
 .container {
@@ -152,6 +152,7 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 50px;
+  color: $lightBlue;
 }
 
 .masthead {
